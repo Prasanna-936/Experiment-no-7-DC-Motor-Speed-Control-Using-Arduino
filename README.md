@@ -1,9 +1,9 @@
 # Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
-###  DATE: 08/04/2024
+####  DATE: 08/04/2024
 
-###  NAME: PRASANNA R
-###  ROLL NO : 212221220039
-###  DEPARTMENT: IT
+####  NAME: PRASANNA R
+####  ROLL NO : 212221220039
+####  DEPARTMENT: IT
 
 ### AIM : To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
 
